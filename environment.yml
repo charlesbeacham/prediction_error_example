@@ -1,0 +1,13 @@
+name: pred_error
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+prefix: /home/cb/miniconda3/envs/pred_error
