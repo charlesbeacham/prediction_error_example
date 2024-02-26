@@ -10,4 +10,5 @@ dependencies:
   - scipy
   - seaborn
   - statsmodels
+  - ipykernel
 prefix: /home/cb/miniconda3/envs/pred_error
